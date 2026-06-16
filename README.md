@@ -1,6 +1,6 @@
 # IPL Win Probability Predictor
 
-A Machine Learning-powered web application that predicts the winning probability of IPL teams during a live cricket match. By analyzing match conditions such as current score, target, overs remaining, wickets in hand, and run rate, the model provides real-time win probability estimates for both teams.
+A Machine Learning-powered web application that predicts the winning probability of IPL teams during a live cricket match. By analyzing match conditions such as current score, target, overs remaining, wickets in hand and run rate, the model provides real time win probability estimates for both teams.
 
 <img width="962" height="807" alt="image" src="https://github.com/user-attachments/assets/c71e739a-99ef-4aef-ba63-86515310dc6e" />
 
